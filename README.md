@@ -1,2 +1,2 @@
 # js-hindi-youtube
-a code repo for javascript series at chai aur code  youtube channel
+Hey there ! I'm Hardik Panchal welcome to my GitHub page and learning the my javascript code 
